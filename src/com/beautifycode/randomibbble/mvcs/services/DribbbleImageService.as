@@ -12,7 +12,6 @@ package com.beautifycode.randomibbble.mvcs.services {
 	import flash.display.Loader;
 	import flash.events.Event;
 	import flash.net.URLRequest;
-	import flash.system.Security;
 
 	/**
 	 * @author Marvin
@@ -35,7 +34,7 @@ package com.beautifycode.randomibbble.mvcs.services {
 		}
 
 		public function init():void {
-//			 Security.allowDomain("*");
+			// Security.allowDomain("*");
 			// Security.loadPolicyFile(CROSSDOMAIN_URL);
 
 			_loadingCompleteEvent = new DribbbleImageEvent(DribbbleImageEvent.ALL_IMAGES_LOADED, true, false);

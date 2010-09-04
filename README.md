@@ -4,7 +4,7 @@ __Marvin Blase__
 [Twitter](www.twitter.com/@beautifycode "Twitter")
 
 ## About
-Cutimals - Simply cute, nothing else!
+Randomibbble - "Just 10. Then I'll go back at work!"
 
 ## License
 Copyright (c) <2010> <copyright holders>

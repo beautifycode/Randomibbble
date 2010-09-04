@@ -15,4 +15,6 @@
 <AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/framework.swc</AS3Classpath>
 <AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/rpc.swc</AS3Classpath>
 <AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/utilities.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="lib" useAsSharedCode="false">submodules/StarDribbbleLib/libs/StarRequests0.3.1.swc</AS3Classpath>
+<AS3Classpath generateProblems="true" sdkBased="false" type="source" useAsSharedCode="false">submodules/StarDribbbleLib/src</AS3Classpath>
 </AS3Classpath>
