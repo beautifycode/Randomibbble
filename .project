@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Randomibbble</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.powerflasher.fdt.core.FlashBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.powerflasher.fdt.core.FlashNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>AS3CoreLib</name>
+			<type>2</type>
+			<location>/Users/marvin/Workspace/libs/as3corelib-.92.1/src</location>
+		</link>
+		<link>
+			<name>FlickrAPI</name>
+			<type>2</type>
+			<location>/Users/marvin/Workspace/libs/FlickrAPI</location>
+		</link>
+		<link>
+			<name>FlickrAPI.swc</name>
+			<type>2</type>
+			<location>/Users/marvin/Workspace/libs/FlickrAPI</location>
+		</link>
+		<link>
+			<name>RobotLegs</name>
+			<type>2</type>
+			<location>/Users/marvin/Workspace/libs/robotlegs-framework-v1.1.2/src</location>
+		</link>
+		<link>
+			<name>SwiftSuspenders.swc</name>
+			<type>1</type>
+			<location>/Users/marvin/Workspace/libs/SwiftSuspenders/SwiftSuspenders-v1.5.1.swc</location>
+		</link>
+	</linkedResources>
+</projectDescription>

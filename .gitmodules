@@ -1,0 +1,3 @@
+[submodule "submodules/StarDribbbleLib"]
+	path = submodules/StarDribbbleLib
+	url = git@github.com:beautifycode/StarDribbbleLib.git

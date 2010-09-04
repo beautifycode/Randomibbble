@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AS3Classpath>
+<AS3Classpath generateProblems="true" sdkBased="false" type="source" useAsSharedCode="false">src</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="source" useAsSharedCode="false">RobotLegs</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="lib" useAsSharedCode="false">SwiftSuspenders.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="lib" useAsSharedCode="false">FlickrAPI.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="source" useAsSharedCode="false">FlickrAPI</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="source" useAsSharedCode="false">AS3CoreLib</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="lib" useAsSharedCode="false">assets/cutimals_assets.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/air/airglobal.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/air/airframework.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/air/applicationupdater_ui.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/air/servicemonitor.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/flex.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/framework.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/rpc.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/utilities.swc</AS3Classpath>
+</AS3Classpath>
